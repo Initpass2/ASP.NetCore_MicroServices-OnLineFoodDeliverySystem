@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\myproject\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Common\\OMF.Common\\OMF.Common.csproj",
+      "projectUniqueName": "C:\\shreyasi-microservices\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Common\\OMF.Common\\OMF.Common.csproj",
       "projectName": "OMF.Common",
-      "projectPath": "C:\\myproject\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Common\\OMF.Common\\OMF.Common.csproj",
+      "projectPath": "C:\\shreyasi-microservices\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Common\\OMF.Common\\OMF.Common.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\myproject\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Common\\OMF.Common\\obj\\",
+      "outputPath": "C:\\shreyasi-microservices\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Common\\OMF.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

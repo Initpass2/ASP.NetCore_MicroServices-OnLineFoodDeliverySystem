@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\myproject\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Services\\OMF.CustomerManagement\\OMF.CustomerManagement.csproj",
+      "projectUniqueName": "C:\\shreyasi-microservices\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Services\\OMF.CustomerManagement\\OMF.CustomerManagement.csproj",
       "projectName": "OMF.CustomerManagement",
-      "projectPath": "C:\\myproject\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Services\\OMF.CustomerManagement\\OMF.CustomerManagement.csproj",
+      "projectPath": "C:\\shreyasi-microservices\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Services\\OMF.CustomerManagement\\OMF.CustomerManagement.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\myproject\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Services\\OMF.CustomerManagement\\obj\\",
+      "outputPath": "C:\\shreyasi-microservices\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Services\\OMF.CustomerManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,8 +56,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\myproject\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Common\\OMF.Common\\OMF.Common.csproj": {
-              "projectPath": "C:\\myproject\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Common\\OMF.Common\\OMF.Common.csproj"
+            "C:\\shreyasi-microservices\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Common\\OMF.Common\\OMF.Common.csproj": {
+              "projectPath": "C:\\shreyasi-microservices\\ASP.NetCore_MicroServices-OnLineFoodDeliverySystem\\Common\\OMF.Common\\OMF.Common.csproj"
             }
           }
         }
